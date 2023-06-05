@@ -1,0 +1,457 @@
+in: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+mathematics: 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+and: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+computer: 1.txt
+science: 1.txt, 2.txt
+an: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt
+algorithm: 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+Î: 1.txt
+„: 1.txt
+lÈ¢È: 1.txt
+rÈ∫„: 1.txt
+È: 1.txt
+m: 1.txt
+listen: 1.txt
+is: 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+a: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+finite: 1.txt, 1.txt, 1.txt
+sequence: 1.txt
+of: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+rigorous: 1.txt
+instructions: 1.txt, 1.txt
+typically: 1.txt
+used: 1.txt, 1.txt
+to: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+solve: 1.txt, 2.txt
+class: 1.txt
+specific: 1.txt
+problems: 1.txt, 2.txt
+or: 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+perform: 1.txt
+computation: 1.txt, 1.txt, 2.txt
+1: 1.txt, 2.txt
+algorithms: 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt
+are: 1.txt, 2.txt
+as: 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt
+specifications: 1.txt
+for: 1.txt, 1.txt, 2.txt, 2.txt, 2.txt
+performing: 1.txt
+calculations: 1.txt
+data: 1.txt
+processing: 1.txt
+more: 1.txt
+advanced: 1.txt
+can: 1.txt, 1.txt
+use: 1.txt, 2.txt, 2.txt
+conditionals: 1.txt
+divert: 1.txt
+the: 1.txt, 1.txt, 1.txt, 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+code: 1.txt, 2.txt
+execution: 1.txt
+through: 1.txt, 1.txt
+various: 1.txt
+routes: 1.txt
+referred: 1.txt, 1.txt
+automated: 1.txt, 1.txt
+decision: 1.txt, 2.txt
+making: 1.txt
+deduce: 1.txt
+valid: 1.txt
+inferences: 1.txt
+reasoning: 1.txt
+achieving: 1.txt
+automation: 1.txt
+eventually: 1.txt, 1.txt
+using: 1.txt
+human: 1.txt
+characteristics: 1.txt
+descriptors: 1.txt
+machines: 1.txt, 2.txt
+metaphorical: 1.txt
+ways: 1.txt
+was: 1.txt, 2.txt
+already: 1.txt
+practiced: 1.txt
+by: 1.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+alan: 1.txt, 2.txt
+turing: 1.txt, 2.txt, 2.txt
+with: 1.txt, 2.txt, 2.txt, 2.txt, 2.txt
+terms: 1.txt, 2.txt
+such: 1.txt
+memory: 1.txt
+search: 1.txt
+stimulus: 1.txt
+2: 1.txt
+contrast: 1.txt
+heuristic: 1.txt
+approach: 1.txt
+problem: 1.txt, 1.txt, 2.txt
+solving: 1.txt, 2.txt
+that: 1.txt, 1.txt
+may: 1.txt, 1.txt, 2.txt
+not: 1.txt, 1.txt, 1.txt
+be: 1.txt, 1.txt, 2.txt
+fully: 1.txt
+specified: 1.txt
+guarantee: 1.txt
+correct: 1.txt, 1.txt
+optimal: 1.txt, 1.txt
+results: 1.txt
+especially: 1.txt
+domains: 1.txt
+where: 1.txt
+there: 1.txt
+no: 1.txt
+well: 1.txt, 1.txt, 1.txt
+defined: 1.txt, 1.txt, 1.txt
+result: 1.txt
+3: 1.txt
+effective: 1.txt, 2.txt, 2.txt
+method: 1.txt, 2.txt
+expressed: 1.txt
+within: 1.txt
+amount: 1.txt
+space: 1.txt
+time: 1.txt, 2.txt
+4: 1.txt
+formal: 1.txt
+language: 1.txt
+5: 1.txt
+calculating: 1.txt, 2.txt
+function: 1.txt
+6: 1.txt
+starting: 1.txt
+from: 1.txt, 1.txt
+initial: 1.txt, 1.txt
+state: 1.txt, 1.txt, 1.txt
+input: 1.txt, 1.txt
+perhaps: 1.txt
+empty: 1.txt
+7: 1.txt
+describe: 1.txt
+when: 1.txt
+executed: 1.txt
+proceeds: 1.txt
+8: 1.txt
+number: 1.txt, 2.txt, 2.txt
+successive: 1.txt
+states: 1.txt
+producing: 1.txt
+output: 1.txt
+9: 1.txt
+terminating: 1.txt
+at: 1.txt, 2.txt, 2.txt, 2.txt
+final: 1.txt
+ending: 1.txt
+transition: 1.txt
+one: 1.txt
+next: 1.txt
+necessarily: 1.txt
+deterministic: 1.txt
+some: 1.txt, 2.txt, 2.txt
+known: 1.txt
+randomized: 1.txt
+incorporate: 1.txt
+random: 1.txt
+10: 1.txt
+ancient: 2.txt
+since: 2.txt, 2.txt
+antiquity: 2.txt
+step: 2.txt, 2.txt, 2.txt, 2.txt
+procedures: 2.txt
+mathematical: 2.txt
+have: 2.txt
+been: 2.txt
+attested: 2.txt, 2.txt, 2.txt
+this: 2.txt, 2.txt
+includes: 2.txt
+babylonian: 2.txt
+around: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+2500: 2.txt
+bc: 2.txt, 2.txt, 2.txt, 2.txt
+11: 2.txt, 2.txt
+egyptian: 2.txt
+1550: 2.txt
+indian: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+800: 2.txt
+later: 2.txt, 2.txt
+e: 2.txt, 2.txt, 2.txt
+g: 2.txt, 2.txt, 2.txt
+shulba: 2.txt
+sutras: 2.txt
+kerala: 2.txt
+school: 2.txt
+br‰Éhmasphu·: 2.txt
+asiddh‰Énta: 2.txt
+12: 2.txt
+13: 2.txt
+greek: 2.txt, 2.txt
+240: 2.txt
+sieve: 2.txt
+eratosthenes: 2.txt
+euclidean: 2.txt
+14: 2.txt
+arabic: 2.txt, 2.txt, 2.txt
+9th: 2.txt
+century: 2.txt, 2.txt, 2.txt
+cryptographic: 2.txt
+breaking: 2.txt
+based: 2.txt
+on: 2.txt, 2.txt
+frequency: 2.txt
+analysis: 2.txt
+15: 2.txt
+al: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+khwarizmi: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+term: 2.txt, 2.txt, 2.txt
+825: 2.txt
+muhammad: 2.txt
+ibn: 2.txt
+musa: 2.txt
+wrote: 2.txt
+kit‰Éb: 2.txt
+·∏¥is‰Éb: 2.txt, 2.txt
+hind‰: 2.txt, 2.txt
+book: 2.txt, 2.txt
+kitab: 2.txt
+jam: 2.txt
+wa: 2.txt
+l: 2.txt
+tafriq: 2.txt
+addition: 2.txt, 2.txt
+subtraction: 2.txt, 2.txt
+arithmetic: 2.txt, 2.txt, 2.txt
+both: 2.txt
+these: 2.txt
+texts: 2.txt, 2.txt
+lost: 2.txt
+original: 2.txt
+however: 2.txt
+his: 2.txt
+other: 2.txt
+algebra: 2.txt, 2.txt
+remains: 2.txt
+16: 2.txt
+early: 2.txt
+12th: 2.txt
+latin: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+translations: 2.txt
+said: 2.txt
+involving: 2.txt
+hindu‚ê: 2.txt
+numeral: 2.txt, 2.txt
+system: 2.txt
+appeared: 2.txt
+liber: 2.txt, 2.txt
+alghoarismi: 2.txt, 2.txt
+de: 2.txt, 2.txt, 2.txt
+practica: 2.txt
+arismetrice: 2.txt
+attributed: 2.txt, 2.txt
+john: 2.txt
+seville: 2.txt
+algorismi: 2.txt, 2.txt, 2.txt
+numero: 2.txt
+indorum: 2.txt, 2.txt, 2.txt
+adelard: 2.txt
+bath: 2.txt
+17: 2.txt
+hereby: 2.txt
+latinization: 2.txt
+s: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+name: 2.txt
+text: 2.txt, 2.txt
+starts: 2.txt
+phrase: 2.txt
+dixit: 2.txt
+thus: 2.txt
+spoke: 2.txt
+18: 2.txt
+1240: 2.txt
+alexander: 2.txt
+villedieu: 2.txt
+writes: 2.txt
+titled: 2.txt
+carmen: 2.txt
+algorismo: 2.txt
+it: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+begins: 2.txt
+haec: 2.txt
+algorismus: 2.txt, 2.txt
+ars: 2.txt
+praesens: 2.txt
+dicitur: 2.txt
+qua: 2.txt
+talibus: 2.txt
+fruimur: 2.txt
+bis: 2.txt
+quinque: 2.txt
+figuris: 2.txt
+which: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+translates: 2.txt
+algorism: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+art: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+present: 2.txt
+we: 2.txt
+those: 2.txt, 2.txt
+figures: 2.txt, 2.txt
+two: 2.txt
+times: 2.txt
+five: 2.txt, 2.txt
+poem: 2.txt
+few: 2.txt
+hundred: 2.txt
+lines: 2.txt
+long: 2.txt
+summarizes: 2.txt
+new: 2.txt, 2.txt, 2.txt
+styled: 2.txt
+dice: 2.txt
+tali: 2.txt
+hindu: 2.txt
+numerals: 2.txt
+19: 2.txt
+english: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+evolution: 2.txt
+word: 2.txt, 2.txt, 2.txt, 2.txt, 2.txt
+1230: 2.txt
+then: 2.txt
+chaucer: 2.txt
+1391: 2.txt
+adopted: 2.txt
+french: 2.txt
+20: 2.txt
+21: 2.txt
+15th: 2.txt
+under: 2.txt
+influence: 2.txt
+·ºêÔÉÓ: 2.txt
+Ó∏ÓºÔúÔ: 2.txt
+arithmos: 2.txt
+cf: 2.txt
+altered: 2.txt
+algorithmus: 2.txt, 2.txt
+1656: 2.txt
+dictionary: 2.txt, 2.txt
+glossographia: 2.txt
+says: 2.txt, 2.txt, 2.txt, 2.txt
+22: 2.txt
+cyphers: 2.txt, 2.txt, 2.txt
+numbering: 2.txt
+skill: 2.txt
+accounting: 2.txt, 2.txt
+augrime: 2.txt
+skil: 2.txt
+numbring: 2.txt
+1658: 2.txt
+first: 2.txt, 2.txt
+edition: 2.txt, 2.txt
+world: 2.txt, 2.txt
+words: 2.txt, 2.txt
+23: 2.txt
+algorithme: 2.txt
+compounded: 2.txt
+arabick: 2.txt
+spanish: 2.txt
+reckoning: 2.txt, 2.txt
+1706: 2.txt
+sixth: 2.txt
+24: 2.txt
+computing: 2.txt, 2.txt
+numbers: 2.txt, 2.txt
+contains: 2.txt
+principle: 2.txt
+rules: 2.txt
+arithmetick: 2.txt, 2.txt, 2.txt
+viz: 2.txt
+numeration: 2.txt
+multiplication: 2.txt
+division: 2.txt
+added: 2.txt
+extraction: 2.txt
+roots: 2.txt
+also: 2.txt
+call: 2.txt
+d: 2.txt
+logistica: 2.txt
+numeralis: 2.txt
+practical: 2.txt, 2.txt
+operation: 2.txt
+several: 2.txt
+parts: 2.txt
+specious: 2.txt
+sometimes: 2.txt
+taken: 2.txt
+practice: 2.txt, 2.txt
+common: 2.txt
+ten: 2.txt
+1751: 2.txt
+young: 2.txt
+algebraist: 2.txt
+companion: 2.txt
+daniel: 2.txt
+fenning: 2.txt
+contrasts: 2.txt
+follows: 2.txt
+25: 2.txt
+signifies: 2.txt, 2.txt
+principles: 2.txt
+part: 2.txt
+knowing: 2.txt
+how: 2.txt
+put: 2.txt
+least: 2.txt
+1811: 2.txt
+mean: 2.txt
+procedure: 2.txt
+26: 2.txt
+27: 2.txt
+1842: 2.txt
+literature: 2.txt
+reference: 2.txt
+particular: 2.txt, 2.txt
+subject: 2.txt
+way: 2.txt
+differential: 2.txt
+calculus: 2.txt, 2.txt
+28: 2.txt
+machine: 2.txt
+usage: 2.txt
+1928: 2.txt
+partial: 2.txt
+formalization: 2.txt
+modern: 2.txt
+concept: 2.txt
+began: 2.txt
+attempts: 2.txt, 2.txt
+entscheidungsproblem: 2.txt
+posed: 2.txt
+david: 2.txt
+hilbert: 2.txt
+formalizations: 2.txt, 2.txt
+were: 2.txt
+framed: 2.txt
+define: 2.txt
+calculability: 2.txt
+29: 2.txt
+30: 2.txt
+included: 2.txt
+g„: 2.txt
+del‚ê: 2.txt
+herbrand‚ê: 2.txt
+kleene: 2.txt
+recursive: 2.txt
+functions: 2.txt
+1930: 2.txt
+1934: 2.txt
+1935: 2.txt
+alonzo: 2.txt
+church: 2.txt
+lambda: 2.txt
+1936: 2.txt, 2.txt
+emil: 2.txt
+post: 2.txt
+formulation: 2.txt
+1936‚ê: 2.txt
+37: 2.txt
+1939: 2.txt
